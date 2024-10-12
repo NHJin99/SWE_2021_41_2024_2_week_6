@@ -3,7 +3,7 @@
 ___
 
 ## Week 4 Assignment
-* [repository](https://github.com/NHJin99/SWE_2021_41_2024_2_week_4)
+* [Repository](https://github.com/NHJin99/SWE_2021_41_2024_2_week_4)
 
 ```c
 def isHappy(n):
