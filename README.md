@@ -41,4 +41,26 @@ def isHappy(n):
 ___
 
 ## Week 5 Assignment
-> doker 
+> ```shell
+> docker exec ossp-container cat /etc/os-release
+> ```
+> * This conmmand checks container's OS
+
+> ```shell
+> docker exec ossp-container git --version
+> ```
+> * This conmmand checks container's git version
+
+> ```shell
+> docker exec ossp-container python3 --version
+> ```
+> * This conmmand checks container's python3 version
+> * 
+
+> ```shell
+> docker inspect --format="{{ .HostConfig.Binds }}" ossp-container
+> ```
+> * This conmmand checks container's path of mounted directory
+> * The format is as following: __‘[<host_dir_path>:<container_dir_path>]’__
+> * 
+> * 
