@@ -3,10 +3,10 @@
 ___
 
 ## Week 4 Assignment
-*Link of my repository
+* Link of my repository
 
 
-*Description of my code
+* Description of my code
 
 ___
 
